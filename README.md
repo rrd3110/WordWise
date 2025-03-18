@@ -71,8 +71,6 @@ expo build:android
 expo build:ios
 ```
 
-## 🔗 Project Link
-[WordWise - Live Demo](https://your-live-demo-link.com)
 
 ## 🤝 Contributing
 Contributions are welcome! Follow these steps:
